@@ -1,0 +1,49 @@
+{
+    "id": "/#/",
+    "start_url": "/#/",
+    "scope": "/",
+    "name": "APPStory",
+    "short_name": "APPStory",
+    "description": "Share your dicoding stories",
+    "display": "standalone",
+    "background_color": "#FFFFFF",
+    "theme_color": "#641B2E",
+    "icons": [
+        {
+            "src": "images/icon/icon-144.png",
+            "type": "image/png",
+            "sizes": "144x144",
+            "purpose": "any"
+        },
+        {
+            "src": "images/icon/maskable-icon-48x48.png",
+            "type": "image/png",
+            "sizes": "48x48",
+            "purpose": "maskable"
+        },
+        {
+            "src": "images/icon/maskable-icon-96x96.png",
+            "type": "image/png",
+            "sizes": "96x96",
+            "purpose": "maskable"
+        },
+        {
+            "src": "images/icon/maskable-icon-192x192.png",
+            "type": "image/png",
+            "sizes": "192x192",
+            "purpose": "maskable"
+        },
+        {
+            "src": "images/icon/maskable-icon-384x384.png",
+            "type": "image/png",
+            "sizes": "384x384",
+            "purpose": "maskable"
+        },
+        {
+            "src": "images/icon/maskable-icon-512x512.png",
+            "type": "image/png",
+            "sizes": "512x512",
+            "purpose": "maskable"
+        }
+    ]
+}
