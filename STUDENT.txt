@@ -4,10 +4,3 @@ export const MAP_SERVICE_API_KEY = 'iVbqL6HAMyxBS0LrSgo3';
 export const VAPID_PUBLIC_KEY =
   'BCCs2eonMI-6H2ctvFaWg-UYdDv387Vno_bzUzALpB442r2lCnsHmtrx8biyPi_E-1fSGABK_Qs_GlvPoJJqxbk';
 
-
-LINK DEPLOY = https://682d4ad2f6e1778c291f9dc9--regal-kulfi-e43155.netlify.app/
-
-NOTESS!!!!
-jika saat klik link tidak langsung diarahkan ke halaman login, 
-coba klik logo butterfly/tulisan APPStory yang ada pada footer
-nanti akan diarahkan menuju halaman login
